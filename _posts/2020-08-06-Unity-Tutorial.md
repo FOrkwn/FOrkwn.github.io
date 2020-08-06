@@ -1,8 +1,8 @@
 ---
-title:"À¯´ÏÆ¼ ¼³Ä¡"
-excerpt:"Unity Hub ¼³Ä¡ÇÏ±â"
-category:"Unity"
+title: "ìœ ë‹ˆí‹° ì„¤ì¹˜"
+excerpt: "Unity Hub ì„¤ì¹˜í•˜ê¸°"
+category: "Unity"
 ---
 
-[À¯´ÏÆ¼ Çãºê ´Ù¿î·Îµå](https://store.unity.com/download/thank-you?thank-you=personal&os=win&nid=1693)
+[ìœ ë‹ˆí‹° í—ˆë¸Œ ë‹¤ìš´ë¡œë“œ](https://store.unity.com/download/thank-you?thank-you=personal&os=win&nid=1693)
 
